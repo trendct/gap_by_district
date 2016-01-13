@@ -1,0 +1,5172 @@
+{
+	
+	"1": {
+		"district": "Andover School District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.796",
+			"math": "0.711"
+		}
+	},
+	"2": {
+		"district": "Ansonia School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "0.215",
+			"math": "0.081"
+		},
+		"hispanic": {
+			"english": "0.304",
+			"math": "0.153"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.393",
+			"math": "0.286"
+		},
+		"white": {
+			"english": "0.465",
+			"math": "0.251"
+		}
+	},
+	"3": {
+		"district": "Ashford School District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.633",
+			"math": "0.431"
+		}
+	},
+	"4": {
+		"district": "Avon School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.895",
+			"math": "0.887"
+		},
+		"black": {
+			"english": "0.5",
+			"math": "0.306"
+		},
+		"hispanic": {
+			"english": "0.683",
+			"math": "0.495"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.81",
+			"math": "0.714"
+		},
+		"white": {
+			"english": "0.839",
+			"math": "0.74"
+		}
+	},
+	"5": {
+		"district": "Barkhamsted School District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.7",
+			"math": "0.421"
+		}
+	},
+	"7": {
+		"district": "Berlin School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.783",
+			"math": "0.543"
+		},
+		"black": {
+			"english": "0.29",
+			"math": "0.088"
+		},
+		"hispanic": {
+			"english": "0.394",
+			"math": "0.238"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.721",
+			"math": "0.581"
+		},
+		"white": {
+			"english": "0.64",
+			"math": "0.505"
+		}
+	},
+	"8": {
+		"district": "Bethany School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.913",
+			"math": "0.826"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.662",
+			"math": "0.581"
+		}
+	},
+	"9": {
+		"district": "Bethel School District",
+		"asian": {
+			"english": "0.783",
+			"math": "0.613"
+		},
+		"black": {
+			"english": "0.5",
+			"math": "0.176"
+		},
+		"hispanic": {
+			"english": "0.542",
+			"math": "0.293"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.615",
+			"math": "0.462"
+		},
+		"white": {
+			"english": "0.708",
+			"math": "0.427"
+		}
+	},
+	"11": {
+		"district": "Bloomfield School District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "0.477",
+			"math": "0.191"
+		},
+		"hispanic": {
+			"english": "0.455",
+			"math": "0.188"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.36",
+			"math": "0.24"
+		},
+		"white": {
+			"english": "0.586",
+			"math": "0.373"
+		}
+	},
+	"12": {
+		"district": "Bolton School District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "0.464",
+			"math": "0.286"
+		},
+		"hispanic": {
+			"english": "0.417",
+			"math": "0.292"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.786",
+			"math": "0.582"
+		}
+	},
+	"13": {
+		"district": "Bozrah School District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.536",
+			"math": "0.42"
+		}
+	},
+	"14": {
+		"district": "Branford School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.703",
+			"math": "0.625"
+		},
+		"black": {
+			"english": "0.286",
+			"math": "0.245"
+		},
+		"hispanic": {
+			"english": "0.445",
+			"math": "0.343"
+		},
+		"two": {
+			"english": "0.355",
+			"math": "0.194"
+		},
+		"white": {
+			"english": "0.617",
+			"math": "0.462"
+		}
+	},
+	"15": {
+		"district": "Bridgeport School District",
+		"native": {
+			"english": "0.364",
+			"math": "0.242"
+		},
+		"asian": {
+			"english": "0.448",
+			"math": "0.272"
+		},
+		"black": {
+			"english": "0.218",
+			"math": "0.074"
+		},
+		"hispanic": {
+			"english": "0.216",
+			"math": "0.078"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.268",
+			"math": "0.073"
+		},
+		"white": {
+			"english": "0.355",
+			"math": "0.161"
+		}
+	},
+	"17": {
+		"district": "Bristol School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.631",
+			"math": "0.566"
+		},
+		"black": {
+			"english": "0.312",
+			"math": "0.162"
+		},
+		"hispanic": {
+			"english": "0.364",
+			"math": "0.172"
+		},
+		"two": {
+			"english": "0.469",
+			"math": "0.277"
+		},
+		"white": {
+			"english": "0.59",
+			"math": "0.391"
+		}
+	},
+	"18": {
+		"district": "Brookfield School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.802",
+			"math": "0.848"
+		},
+		"black": {
+			"english": "0.727",
+			"math": "0.409"
+		},
+		"hispanic": {
+			"english": "0.606",
+			"math": "0.388"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.701",
+			"math": "0.559"
+		}
+	},
+	"19": {
+		"district": "Brooklyn School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.37",
+			"math": "0.111"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.704",
+			"math": "0.356"
+		}
+	},
+	"21": {
+		"district": "Canaan School District",
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.705",
+			"math": "0.511"
+		}
+	},
+	"22": {
+		"district": "Canterbury School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.522",
+			"math": "0.38"
+		}
+	},
+	"23": {
+		"district": "Canton School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.733",
+			"math": "0.667"
+		},
+		"black": {
+			"english": "0.385",
+			"math": "0.154"
+		},
+		"hispanic": {
+			"english": "0.644",
+			"math": "0.441"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.781",
+			"math": "0.595"
+		}
+	},
+	"24": {
+		"district": "Chaplin School District",
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.56",
+			"math": "0.314"
+		}
+	},
+	"25": {
+		"district": "Cheshire School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.878",
+			"math": "0.755"
+		},
+		"black": {
+			"english": "0.603",
+			"math": "0.384"
+		},
+		"hispanic": {
+			"english": "0.703",
+			"math": "0.356"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.783",
+			"math": "0.583"
+		}
+	},
+	"26": {
+		"district": "Chester School District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.841",
+			"math": "0.677"
+		}
+	},
+	"27": {
+		"district": "Clinton School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.731",
+			"math": "0.615"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.448",
+			"math": "0.316"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.704",
+			"math": "0.548"
+		}
+	},
+	"28": {
+		"district": "Colchester School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.688",
+			"math": "0.563"
+		},
+		"black": {
+			"english": "0.424",
+			"math": "0.219"
+		},
+		"hispanic": {
+			"english": "0.552",
+			"math": "0.293"
+		},
+		"two": {
+			"english": "0.875",
+			"math": "0.583"
+		},
+		"white": {
+			"english": "0.707",
+			"math": "0.529"
+		}
+	},
+	"29": {
+		"district": "Colebrook School District",
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.805",
+			"math": "0.61"
+		}
+	},
+	"30": {
+		"district": "Columbia School District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.664",
+			"math": "0.496"
+		}
+	},
+	"31": {
+		"district": "Cornwall School District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.673",
+			"math": "0.653"
+		}
+	},
+	"32": {
+		"district": "Coventry School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.605",
+			"math": "0.432"
+		},
+		"two": {
+			"english": "0.645",
+			"math": "0.29"
+		},
+		"white": {
+			"english": "0.68",
+			"math": "0.455"
+		}
+	},
+	"33": {
+		"district": "Cromwell School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.667",
+			"math": "0.493"
+		},
+		"black": {
+			"english": "0.447",
+			"math": "0.191"
+		},
+		"hispanic": {
+			"english": "0.483",
+			"math": "0.267"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.695",
+			"math": "0.484"
+		}
+	},
+	"34": {
+		"district": "Danbury School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.675",
+			"math": "0.532"
+		},
+		"black": {
+			"english": "0.375",
+			"math": "0.168"
+		},
+		"hispanic": {
+			"english": "0.357",
+			"math": "0.187"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.597",
+			"math": "0.407"
+		},
+		"white": {
+			"english": "0.596",
+			"math": "0.403"
+		}
+	},
+	"35": {
+		"district": "Darien School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.973",
+			"math": "0.938"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.727",
+			"math": "0.571"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.854",
+			"math": "0.763"
+		}
+	},
+	"36": {
+		"district": "Deep River School District",
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.696",
+			"math": "0.575"
+		}
+	},
+	"37": {
+		"district": "Derby School District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "0.221",
+			"math": "0.099"
+		},
+		"hispanic": {
+			"english": "0.324",
+			"math": "0.167"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.56",
+			"math": "0.2"
+		},
+		"white": {
+			"english": "0.502",
+			"math": "0.301"
+		}
+	},
+	"39": {
+		"district": "Eastford School District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.772",
+			"math": "0.582"
+		}
+	},
+	"40": {
+		"district": "East Granby School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.739",
+			"math": "0.739"
+		},
+		"black": {
+			"english": "0.361",
+			"math": "0.139"
+		},
+		"hispanic": {
+			"english": "0.5",
+			"math": "0.321"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.771",
+			"math": "0.638"
+		}
+	},
+	"41": {
+		"district": "East Haddam School District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.698",
+			"math": "0.48"
+		}
+	},
+	"42": {
+		"district": "East Hampton School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.523",
+			"math": "0.295"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.646",
+			"math": "0.442"
+		}
+	},
+	"43": {
+		"district": "East Hartford School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.588",
+			"math": "0.386"
+		},
+		"black": {
+			"english": "0.293",
+			"math": "0.136"
+		},
+		"hispanic": {
+			"english": "0.265",
+			"math": "0.122"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.497",
+			"math": "0.282"
+		}
+	},
+	"44": {
+		"district": "East Haven School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.56",
+			"math": "0.387"
+		},
+		"black": {
+			"english": "0.328",
+			"math": "0.121"
+		},
+		"hispanic": {
+			"english": "0.353",
+			"math": "0.193"
+		},
+		"two": {
+			"english": "0.476",
+			"math": "0.286"
+		},
+		"white": {
+			"english": "0.47",
+			"math": "0.243"
+		}
+	},
+	"45": {
+		"district": "East Lyme School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.903",
+			"math": "0.91"
+		},
+		"black": {
+			"english": "0.568",
+			"math": "0.405"
+		},
+		"hispanic": {
+			"english": "0.639",
+			"math": "0.41"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.821",
+			"math": "0.852"
+		},
+		"white": {
+			"english": "0.768",
+			"math": "0.586"
+		}
+	},
+	"46": {
+		"district": "Easton School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.833",
+			"math": "0.8"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.611",
+			"math": "0.556"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.759",
+			"math": "0.622"
+		}
+	},
+	"47": {
+		"district": "East Windsor School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.75",
+			"math": "0.6"
+		},
+		"black": {
+			"english": "0.281",
+			"math": "0.078"
+		},
+		"hispanic": {
+			"english": "0.418",
+			"math": "0.207"
+		},
+		"two": {
+			"english": "0.583",
+			"math": "0.375"
+		},
+		"white": {
+			"english": "0.536",
+			"math": "0.351"
+		}
+	},
+	"48": {
+		"district": "Ellington School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.906",
+			"math": "0.823"
+		},
+		"black": {
+			"english": "0.358",
+			"math": "0.264"
+		},
+		"hispanic": {
+			"english": "0.529",
+			"math": "0.451"
+		},
+		"two": {
+			"english": "0.771",
+			"math": "0.514"
+		},
+		"white": {
+			"english": "0.744",
+			"math": "0.584"
+		}
+	},
+	"49": {
+		"district": "Enfield School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.672",
+			"math": "0.466"
+		},
+		"black": {
+			"english": "0.312",
+			"math": "0.152"
+		},
+		"hispanic": {
+			"english": "0.405",
+			"math": "0.22"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.496",
+			"math": "0.298"
+		},
+		"white": {
+			"english": "0.589",
+			"math": "0.386"
+		}
+	},
+	"50": {
+		"district": "Essex School District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.833",
+			"math": "0.56"
+		}
+	},
+	"51": {
+		"district": "Fairfield School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.799",
+			"math": "0.724"
+		},
+		"black": {
+			"english": "0.47",
+			"math": "0.281"
+		},
+		"hispanic": {
+			"english": "0.553",
+			"math": "0.353"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.784",
+			"math": "0.673"
+		},
+		"white": {
+			"english": "0.769",
+			"math": "0.624"
+		}
+	},
+	"52": {
+		"district": "Farmington School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.888",
+			"math": "0.845"
+		},
+		"black": {
+			"english": "0.49",
+			"math": "0.303"
+		},
+		"hispanic": {
+			"english": "0.613",
+			"math": "0.414"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.787",
+			"math": "0.625"
+		}
+	},
+	"53": {
+		"district": "Franklin School District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.695",
+			"math": "0.489"
+		}
+	},
+	"54": {
+		"district": "Glastonbury School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.854",
+			"math": "0.813"
+		},
+		"black": {
+			"english": "0.495",
+			"math": "0.351"
+		},
+		"hispanic": {
+			"english": "0.597",
+			"math": "0.441"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.831",
+			"math": "0.746"
+		},
+		"white": {
+			"english": "0.794",
+			"math": "0.684"
+		}
+	},
+	"56": {
+		"district": "Granby School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "0.311",
+			"math": "0.239"
+		},
+		"hispanic": {
+			"english": "0.725",
+			"math": "0.4"
+		},
+		"two": {
+			"english": "0.676",
+			"math": "0.559"
+		},
+		"white": {
+			"english": "0.778",
+			"math": "0.638"
+		}
+	},
+	"57": {
+		"district": "Greenwich School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.861",
+			"math": "0.864"
+		},
+		"black": {
+			"english": "0.493",
+			"math": "0.216"
+		},
+		"hispanic": {
+			"english": "0.618",
+			"math": "0.396"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.881",
+			"math": "0.795"
+		},
+		"white": {
+			"english": "0.822",
+			"math": "0.695"
+		}
+	},
+	"58": {
+		"district": "Griswold School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "0.344",
+			"math": "0.094"
+		},
+		"hispanic": {
+			"english": "0.554",
+			"math": "0.316"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.582",
+			"math": "0.296"
+		},
+		"white": {
+			"english": "0.628",
+			"math": "0.418"
+		}
+	},
+	"59": {
+		"district": "Groton School District",
+		"native": {
+			"english": "0.3",
+			"math": "0.05"
+		},
+		"asian": {
+			"english": "0.604",
+			"math": "0.448"
+		},
+		"black": {
+			"english": "0.333",
+			"math": "0.211"
+		},
+		"hispanic": {
+			"english": "0.354",
+			"math": "0.238"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.507",
+			"math": "0.319"
+		},
+		"white": {
+			"english": "0.612",
+			"math": "0.472"
+		}
+	},
+	"60": {
+		"district": "Guilford School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.849",
+			"math": "0.781"
+		},
+		"black": {
+			"english": "0.435",
+			"math": "0.261"
+		},
+		"hispanic": {
+			"english": "0.71",
+			"math": "0.534"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.852",
+			"math": "0.685"
+		},
+		"white": {
+			"english": "0.809",
+			"math": "0.645"
+		}
+	},
+	"62": {
+		"district": "Hamden School District",
+		"asian": {
+			"english": "0.724",
+			"math": "0.594"
+		},
+		"black": {
+			"english": "0.321",
+			"math": "0.144"
+		},
+		"hispanic": {
+			"english": "0.402",
+			"math": "0.212"
+		},
+		"two": {
+			"english": "0.638",
+			"math": "0.42"
+		},
+		"white": {
+			"english": "0.694",
+			"math": "0.528"
+		}
+	},
+	"63": {
+		"district": "Hampton School District",
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.667",
+			"math": "0.474"
+		}
+	},
+	"64": {
+		"district": "Hartford School District",
+		"native": {
+			"english": "0.242",
+			"math": "0.091"
+		},
+		"asian": {
+			"english": "0.542",
+			"math": "0.436"
+		},
+		"black": {
+			"english": "0.242",
+			"math": "0.103"
+		},
+		"hispanic": {
+			"english": "0.187",
+			"math": "0.078"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.385",
+			"math": "0.202"
+		},
+		"white": {
+			"english": "0.571",
+			"math": "0.424"
+		}
+	},
+	"65": {
+		"district": "Hartland School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.563",
+			"math": "0.438"
+		}
+	},
+	"67": {
+		"district": "Hebron School District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.55",
+			"math": "0.3"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.654",
+			"math": "0.499"
+		}
+	},
+	"68": {
+		"district": "Kent School District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.85",
+			"math": "0.669"
+		}
+	},
+	"69": {
+		"district": "Killingly School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.44",
+			"math": "0.32"
+		},
+		"black": {
+			"english": "0.455",
+			"math": "0.136"
+		},
+		"hispanic": {
+			"english": "0.54",
+			"math": "0.26"
+		},
+		"two": {
+			"english": "0.582",
+			"math": "0.329"
+		},
+		"white": {
+			"english": "0.536",
+			"math": "0.282"
+		}
+	},
+	"71": {
+		"district": "Lebanon School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.458",
+			"math": "0.292"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.631",
+			"math": "0.477"
+		}
+	},
+	"72": {
+		"district": "Ledyard School District",
+		"native": {
+			"english": "0.288",
+			"math": "0.153"
+		},
+		"asian": {
+			"english": "0.72",
+			"math": "0.5"
+		},
+		"black": {
+			"english": "0.57",
+			"math": "0.256"
+		},
+		"hispanic": {
+			"english": "0.518",
+			"math": "0.313"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.553",
+			"math": "0.39"
+		},
+		"white": {
+			"english": "0.655",
+			"math": "0.494"
+		}
+	},
+	"73": {
+		"district": "Lisbon School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.639",
+			"math": "0.237"
+		}
+	},
+	"74": {
+		"district": "Litchfield School District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.536",
+			"math": "0.464"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.697",
+			"math": "0.613"
+		}
+	},
+	"76": {
+		"district": "Madison School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.878",
+			"math": "0.78"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.578",
+			"math": "0.356"
+		},
+		"two": {
+			"english": "0.891",
+			"math": "0.652"
+		},
+		"white": {
+			"english": "0.747",
+			"math": "0.6"
+		}
+	},
+	"77": {
+		"district": "Manchester School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.515",
+			"math": "0.461"
+		},
+		"black": {
+			"english": "0.25",
+			"math": "0.138"
+		},
+		"hispanic": {
+			"english": "0.26",
+			"math": "0.154"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.415",
+			"math": "0.31"
+		},
+		"white": {
+			"english": "0.538",
+			"math": "0.414"
+		}
+	},
+	"78": {
+		"district": "Mansfield School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.935",
+			"math": "0.906"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.622",
+			"math": "0.479"
+		},
+		"two": {
+			"english": "0.821",
+			"math": "0.75"
+		},
+		"white": {
+			"english": "0.803",
+			"math": "0.686"
+		}
+	},
+	"79": {
+		"district": "Marlborough School District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.767",
+			"math": "0.7"
+		}
+	},
+	"80": {
+		"district": "Meriden School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.514",
+			"math": "0.348"
+		},
+		"black": {
+			"english": "0.309",
+			"math": "0.094"
+		},
+		"hispanic": {
+			"english": "0.282",
+			"math": "0.115"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.458",
+			"math": "0.164"
+		},
+		"white": {
+			"english": "0.537",
+			"math": "0.289"
+		}
+	},
+	"83": {
+		"district": "Middletown School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.774",
+			"math": "0.591"
+		},
+		"black": {
+			"english": "0.297",
+			"math": "0.124"
+		},
+		"hispanic": {
+			"english": "0.335",
+			"math": "0.172"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.508",
+			"math": "0.308"
+		},
+		"white": {
+			"english": "0.649",
+			"math": "0.449"
+		}
+	},
+	"84": {
+		"district": "Milford School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.782",
+			"math": "0.692"
+		},
+		"black": {
+			"english": "0.458",
+			"math": "0.273"
+		},
+		"hispanic": {
+			"english": "0.475",
+			"math": "0.318"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.633",
+			"math": "0.438"
+		}
+	},
+	"85": {
+		"district": "Monroe School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.932",
+			"math": "0.838"
+		},
+		"black": {
+			"english": "0.692",
+			"math": "0.154"
+		},
+		"hispanic": {
+			"english": "0.776",
+			"math": "0.496"
+		},
+		"two": {
+			"english": "0.844",
+			"math": "0.636"
+		},
+		"white": {
+			"english": "0.851",
+			"math": "0.6"
+		}
+	},
+	"86": {
+		"district": "Montville School District",
+		"native": {
+			"english": "0.45",
+			"math": "0.3"
+		},
+		"asian": {
+			"english": "0.723",
+			"math": "0.634"
+		},
+		"black": {
+			"english": "0.526",
+			"math": "0.263"
+		},
+		"hispanic": {
+			"english": "0.471",
+			"math": "0.212"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.508",
+			"math": "0.258"
+		},
+		"white": {
+			"english": "0.586",
+			"math": "0.364"
+		}
+	},
+	"88": {
+		"district": "Naugatuck School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.739",
+			"math": "0.565"
+		},
+		"black": {
+			"english": "0.252",
+			"math": "0.078"
+		},
+		"hispanic": {
+			"english": "0.429",
+			"math": "0.199"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.463",
+			"math": "0.194"
+		},
+		"white": {
+			"english": "0.517",
+			"math": "0.339"
+		}
+	},
+	"89": {
+		"district": "New Britain School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.436",
+			"math": "0.313"
+		},
+		"black": {
+			"english": "0.23",
+			"math": "0.132"
+		},
+		"hispanic": {
+			"english": "0.178",
+			"math": "0.104"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.337",
+			"math": "0.213"
+		},
+		"white": {
+			"english": "0.354",
+			"math": "0.254"
+		}
+	},
+	"90": {
+		"district": "New Canaan School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.906",
+			"math": "0.889"
+		},
+		"black": {
+			"english": "0.606",
+			"math": "0.364"
+		},
+		"hispanic": {
+			"english": "0.707",
+			"math": "0.547"
+		},
+		"two": {
+			"english": "0.81",
+			"math": "0.81"
+		},
+		"white": {
+			"english": "0.825",
+			"math": "0.745"
+		}
+	},
+	"91": {
+		"district": "New Fairfield School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.818",
+			"math": "0.636"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.632",
+			"math": "0.44"
+		},
+		"two": {
+			"english": "*",
+			"math": "0.35"
+		},
+		"white": {
+			"english": "0.656",
+			"math": "0.463"
+		}
+	},
+	"92": {
+		"district": "New Hartford School District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.77",
+			"math": "0.573"
+		}
+	},
+	"93": {
+		"district": "New Haven School District",
+		"native": {
+			"english": "0.4",
+			"math": "0.15"
+		},
+		"asian": {
+			"english": "0.74",
+			"math": "0.628"
+		},
+		"black": {
+			"english": "0.224",
+			"math": "0.075"
+		},
+		"hispanic": {
+			"english": "0.244",
+			"math": "0.092"
+		},
+		"two": {
+			"english": "0.194",
+			"math": "0.188"
+		},
+		"white": {
+			"english": "0.563",
+			"math": "0.361"
+		}
+	},
+	"94": {
+		"district": "Newington School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.798",
+			"math": "0.674"
+		},
+		"black": {
+			"english": "0.414",
+			"math": "0.222"
+		},
+		"hispanic": {
+			"english": "0.514",
+			"math": "0.36"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.505",
+			"math": "0.434"
+		},
+		"white": {
+			"english": "0.636",
+			"math": "0.514"
+		}
+	},
+	"95": {
+		"district": "New London School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "0.276",
+			"math": "0.125"
+		},
+		"hispanic": {
+			"english": "0.249",
+			"math": "0.161"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.386",
+			"math": "0.226"
+		},
+		"white": {
+			"english": "0.471",
+			"math": "0.329"
+		}
+	},
+	"96": {
+		"district": "New Milford School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.784",
+			"math": "0.72"
+		},
+		"black": {
+			"english": "0.319",
+			"math": "0.213"
+		},
+		"hispanic": {
+			"english": "0.333",
+			"math": "0.21"
+		},
+		"two": {
+			"english": "0.549",
+			"math": "0.404"
+		},
+		"white": {
+			"english": "0.546",
+			"math": "0.415"
+		}
+	},
+	"97": {
+		"district": "Newtown School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.781",
+			"math": "0.708"
+		},
+		"black": {
+			"english": "0.679",
+			"math": "0.536"
+		},
+		"hispanic": {
+			"english": "0.605",
+			"math": "0.449"
+		},
+		"two": {
+			"english": "0.9",
+			"math": "0.85"
+		},
+		"white": {
+			"english": "0.753",
+			"math": "0.596"
+		}
+	},
+	"98": {
+		"district": "Norfolk School District",
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.581",
+			"math": "0.484"
+		}
+	},
+	"99": {
+		"district": "North Branford School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.708",
+			"math": "0.625"
+		},
+		"black": {
+			"english": "0.303",
+			"math": "0.242"
+		},
+		"hispanic": {
+			"english": "0.435",
+			"math": "0.239"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.532",
+			"math": "0.364"
+		}
+	},
+	"100": {
+		"district": "North Canaan School District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.5",
+			"math": "0.55"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.555",
+			"math": "0.391"
+		}
+	},
+	"101": {
+		"district": "North Haven School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.741",
+			"math": "0.617"
+		},
+		"black": {
+			"english": "0.388",
+			"math": "0.28"
+		},
+		"hispanic": {
+			"english": "0.391",
+			"math": "0.247"
+		},
+		"two": {
+			"english": "0.576",
+			"math": "0.455"
+		},
+		"white": {
+			"english": "0.541",
+			"math": "0.394"
+		}
+	},
+	"102": {
+		"district": "North Stonington School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.694",
+			"math": "0.573"
+		}
+	},
+	"103": {
+		"district": "Norwalk School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.728",
+			"math": "0.588"
+		},
+		"black": {
+			"english": "0.3",
+			"math": "0.113"
+		},
+		"hispanic": {
+			"english": "0.387",
+			"math": "0.202"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.594",
+			"math": "0.353"
+		},
+		"white": {
+			"english": "0.657",
+			"math": "0.467"
+		}
+	},
+	"104": {
+		"district": "Norwich School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.597",
+			"math": "0.511"
+		},
+		"black": {
+			"english": "0.175",
+			"math": "0.056"
+		},
+		"hispanic": {
+			"english": "0.232",
+			"math": "0.114"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.342",
+			"math": "0.166"
+		},
+		"white": {
+			"english": "0.348",
+			"math": "0.209"
+		}
+	},
+	"106": {
+		"district": "Old Saybrook School District",
+		"asian": {
+			"english": "0.735",
+			"math": "0.571"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.617",
+			"math": "0.25"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.722",
+			"math": "0.516"
+		}
+	},
+	"107": {
+		"district": "Orange School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.915",
+			"math": "0.902"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.611",
+			"math": "0.444"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.797",
+			"math": "0.639"
+		}
+	},
+	"108": {
+		"district": "Oxford School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.864",
+			"math": "0.636"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.596",
+			"math": "0.333"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.724",
+			"math": "0.453"
+		}
+	},
+	"109": {
+		"district": "Plainfield School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.556",
+			"math": "0.214"
+		},
+		"black": {
+			"english": "0.341",
+			"math": "0.109"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.478",
+			"math": "0.273"
+		}
+	},
+	"110": {
+		"district": "Plainville School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.704",
+			"math": "0.481"
+		},
+		"black": {
+			"english": "0.435",
+			"math": "0.242"
+		},
+		"hispanic": {
+			"english": "0.417",
+			"math": "0.235"
+		},
+		"two": {
+			"english": "0.575",
+			"math": "0.4"
+		},
+		"white": {
+			"english": "0.598",
+			"math": "0.398"
+		}
+	},
+	"111": {
+		"district": "Plymouth School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.37",
+			"math": "0.14"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.529",
+			"math": "0.378"
+		}
+	},
+	"112": {
+		"district": "Pomfret School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.746",
+			"math": "0.617"
+		}
+	},
+	"113": {
+		"district": "Portland School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.54",
+			"math": "0.349"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.72",
+			"math": "0.44"
+		},
+		"white": {
+			"english": "0.808",
+			"math": "0.633"
+		}
+	},
+	"114": {
+		"district": "Preston School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.709",
+			"math": "0.557"
+		}
+	},
+	"116": {
+		"district": "Putnam School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.25",
+			"math": "0.2"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.333",
+			"math": "0.083"
+		},
+		"white": {
+			"english": "0.465",
+			"math": "0.267"
+		}
+	},
+	"117": {
+		"district": "Redding School District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.571",
+			"math": "0.481"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.735",
+			"math": "0.66"
+		},
+		"white": {
+			"english": "0.777",
+			"math": "0.68"
+		}
+	},
+	"118": {
+		"district": "Ridgefield School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.903",
+			"math": "0.883"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.682",
+			"math": "0.554"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.897",
+			"math": "0.759"
+		},
+		"white": {
+			"english": "0.824",
+			"math": "0.653"
+		}
+	},
+	"119": {
+		"district": "Rocky Hill School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.845",
+			"math": "0.728"
+		},
+		"black": {
+			"english": "0.621",
+			"math": "0.448"
+		},
+		"hispanic": {
+			"english": "0.524",
+			"math": "0.272"
+		},
+		"two": {
+			"english": "0.75",
+			"math": "0.5"
+		},
+		"white": {
+			"english": "0.741",
+			"math": "0.518"
+		}
+	},
+	"121": {
+		"district": "Salem School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.739",
+			"math": "0.73"
+		}
+	},
+	"122": {
+		"district": "Salisbury School District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.821",
+			"math": "0.627"
+		}
+	},
+	"123": {
+		"district": "Scotland School District",
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.656",
+			"math": "0.55"
+		}
+	},
+	"124": {
+		"district": "Seymour School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.755",
+			"math": "0.633"
+		},
+		"black": {
+			"english": "0.377",
+			"math": "0.094"
+		},
+		"hispanic": {
+			"english": "0.419",
+			"math": "0.262"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.583",
+			"math": "0.432"
+		}
+	},
+	"125": {
+		"district": "Sharon School District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.456",
+			"math": "0.316"
+		}
+	},
+	"126": {
+		"district": "Shelton School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.822",
+			"math": "0.756"
+		},
+		"black": {
+			"english": "0.492",
+			"math": "0.234"
+		},
+		"hispanic": {
+			"english": "0.539",
+			"math": "0.27"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.588",
+			"math": "0.412"
+		},
+		"white": {
+			"english": "0.7",
+			"math": "0.516"
+		}
+	},
+	"127": {
+		"district": "Sherman School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.667",
+			"math": "0.528"
+		}
+	},
+	"128": {
+		"district": "Simsbury School District",
+		"asian": {
+			"english": "0.863",
+			"math": "0.804"
+		},
+		"black": {
+			"english": "0.513",
+			"math": "0.265"
+		},
+		"hispanic": {
+			"english": "0.652",
+			"math": "0.489"
+		},
+		"two": {
+			"english": "0.87",
+			"math": "0.652"
+		},
+		"white": {
+			"english": "0.822",
+			"math": "0.673"
+		}
+	},
+	"129": {
+		"district": "Somers School District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.481",
+			"math": "0.333"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.687",
+			"math": "0.477"
+		}
+	},
+	"131": {
+		"district": "Southington School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.723",
+			"math": "0.655"
+		},
+		"black": {
+			"english": "0.456",
+			"math": "0.275"
+		},
+		"hispanic": {
+			"english": "0.493",
+			"math": "0.315"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.607",
+			"math": "0.534"
+		},
+		"white": {
+			"english": "0.683",
+			"math": "0.57"
+		}
+	},
+	"132": {
+		"district": "South Windsor School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.864",
+			"math": "0.814"
+		},
+		"black": {
+			"english": "0.424",
+			"math": "0.295"
+		},
+		"hispanic": {
+			"english": "0.517",
+			"math": "0.376"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.761",
+			"math": "0.676"
+		},
+		"white": {
+			"english": "0.725",
+			"math": "0.626"
+		}
+	},
+	"133": {
+		"district": "Sprague School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.357",
+			"math": "0.103"
+		},
+		"two": {
+			"english": "0.542",
+			"math": "0.125"
+		},
+		"white": {
+			"english": "0.561",
+			"math": "0.38"
+		}
+	},
+	"134": {
+		"district": "Stafford School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.763",
+			"math": "0.395"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.658",
+			"math": "0.477"
+		}
+	},
+	"135": {
+		"district": "Stamford School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.768",
+			"math": "0.705"
+		},
+		"black": {
+			"english": "0.299",
+			"math": "0.161"
+		},
+		"hispanic": {
+			"english": "0.36",
+			"math": "0.237"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.557",
+			"math": "0.471"
+		},
+		"white": {
+			"english": "0.69",
+			"math": "0.571"
+		}
+	},
+	"136": {
+		"district": "Sterling School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.456",
+			"math": "0.19"
+		}
+	},
+	"137": {
+		"district": "Stonington School District",
+		"asian": {
+			"english": "0.6",
+			"math": "0.467"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.5",
+			"math": "0.455"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.673",
+			"math": "0.576"
+		}
+	},
+	"138": {
+		"district": "Stratford School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.746",
+			"math": "0.484"
+		},
+		"black": {
+			"english": "0.383",
+			"math": "0.119"
+		},
+		"hispanic": {
+			"english": "0.425",
+			"math": "0.149"
+		},
+		"two": {
+			"english": "0.495",
+			"math": "0.242"
+		},
+		"white": {
+			"english": "0.632",
+			"math": "0.327"
+		}
+	},
+	"139": {
+		"district": "Suffield School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.756",
+			"math": "0.628"
+		},
+		"black": {
+			"english": "0.452",
+			"math": "0.194"
+		},
+		"hispanic": {
+			"english": "0.431",
+			"math": "0.19"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.733",
+			"math": "0.498"
+		}
+	},
+	"140": {
+		"district": "Thomaston School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.573",
+			"math": "0.433"
+		}
+	},
+	"141": {
+		"district": "Thompson School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.524",
+			"math": "0.286"
+		},
+		"white": {
+			"english": "0.514",
+			"math": "0.241"
+		}
+	},
+	"142": {
+		"district": "Tolland School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.75",
+			"math": "0.729"
+		},
+		"black": {
+			"english": "0.571",
+			"math": "0.429"
+		},
+		"hispanic": {
+			"english": "0.519",
+			"math": "0.442"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.709",
+			"math": "0.63"
+		}
+	},
+	"143": {
+		"district": "Torrington School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.737",
+			"math": "0.513"
+		},
+		"black": {
+			"english": "0.351",
+			"math": "0.106"
+		},
+		"hispanic": {
+			"english": "0.353",
+			"math": "0.152"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.329",
+			"math": "0.127"
+		},
+		"white": {
+			"english": "0.515",
+			"math": "0.272"
+		}
+	},
+	"144": {
+		"district": "Trumbull School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.865",
+			"math": "0.835"
+		},
+		"black": {
+			"english": "0.518",
+			"math": "0.4"
+		},
+		"hispanic": {
+			"english": "0.56",
+			"math": "0.414"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.718",
+			"math": "0.608"
+		}
+	},
+	"145": {
+		"district": "Union School District",
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.679",
+			"math": "0.547"
+		}
+	},
+	"146": {
+		"district": "Vernon School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.5",
+			"math": "0.312"
+		},
+		"black": {
+			"english": "0.253",
+			"math": "0.118"
+		},
+		"hispanic": {
+			"english": "0.33",
+			"math": "0.177"
+		},
+		"two": {
+			"english": "0.4",
+			"math": "0.196"
+		},
+		"white": {
+			"english": "0.497",
+			"math": "0.333"
+		}
+	},
+	"147": {
+		"district": "Voluntown School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.68",
+			"math": "0.506"
+		}
+	},
+	"148": {
+		"district": "Wallingford School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.678",
+			"math": "0.615"
+		},
+		"black": {
+			"english": "0.379",
+			"math": "0.197"
+		},
+		"hispanic": {
+			"english": "0.422",
+			"math": "0.239"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.605",
+			"math": "0.448"
+		}
+	},
+	"151": {
+		"district": "Waterbury School District",
+		"native": {
+			"english": "0.236",
+			"math": "0.109"
+		},
+		"asian": {
+			"english": "0.551",
+			"math": "0.378"
+		},
+		"black": {
+			"english": "0.209",
+			"math": "0.083"
+		},
+		"hispanic": {
+			"english": "0.208",
+			"math": "0.095"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.367",
+			"math": "0.168"
+		},
+		"white": {
+			"english": "0.42",
+			"math": "0.266"
+		}
+	},
+	"152": {
+		"district": "Waterford School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.833",
+			"math": "0.672"
+		},
+		"black": {
+			"english": "0.385",
+			"math": "0.25"
+		},
+		"hispanic": {
+			"english": "0.532",
+			"math": "0.295"
+		},
+		"two": {
+			"english": "0.548",
+			"math": "0.355"
+		},
+		"white": {
+			"english": "0.681",
+			"math": "0.423"
+		}
+	},
+	"153": {
+		"district": "Watertown School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.688",
+			"math": "0.625"
+		},
+		"black": {
+			"english": "0.364",
+			"math": "0.136"
+		},
+		"hispanic": {
+			"english": "0.598",
+			"math": "0.255"
+		},
+		"two": {
+			"english": "0.462",
+			"math": "0.256"
+		},
+		"white": {
+			"english": "0.609",
+			"math": "0.371"
+		}
+	},
+	"154": {
+		"district": "Westbrook School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.618",
+			"math": "0.324"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.826",
+			"math": "0.648"
+		}
+	},
+	"155": {
+		"district": "West Hartford School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.758",
+			"math": "0.614"
+		},
+		"black": {
+			"english": "0.497",
+			"math": "0.236"
+		},
+		"hispanic": {
+			"english": "0.474",
+			"math": "0.249"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.702",
+			"math": "0.556"
+		},
+		"white": {
+			"english": "0.807",
+			"math": "0.647"
+		}
+	},
+	"156": {
+		"district": "West Haven School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.741",
+			"math": "0.549"
+		},
+		"black": {
+			"english": "0.311",
+			"math": "0.156"
+		},
+		"hispanic": {
+			"english": "0.365",
+			"math": "0.179"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.515",
+			"math": "0.245"
+		},
+		"white": {
+			"english": "0.562",
+			"math": "0.325"
+		}
+	},
+	"157": {
+		"district": "Weston School District",
+		"asian": {
+			"english": "0.818",
+			"math": "0.782"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.636",
+			"math": "0.545"
+		},
+		"two": {
+			"english": "0.718",
+			"math": "0.725"
+		},
+		"white": {
+			"english": "0.791",
+			"math": "0.705"
+		}
+	},
+	"158": {
+		"district": "Westport School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.929",
+			"math": "0.833"
+		},
+		"black": {
+			"english": "0.5",
+			"math": "0.381"
+		},
+		"hispanic": {
+			"english": "0.674",
+			"math": "0.515"
+		},
+		"two": {
+			"english": "0.895",
+			"math": "0.842"
+		},
+		"white": {
+			"english": "0.861",
+			"math": "0.735"
+		}
+	},
+	"159": {
+		"district": "Wethersfield School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.649",
+			"math": "0.567"
+		},
+		"black": {
+			"english": "0.412",
+			"math": "0.276"
+		},
+		"hispanic": {
+			"english": "0.418",
+			"math": "0.252"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.548",
+			"math": "0.476"
+		},
+		"white": {
+			"english": "0.605",
+			"math": "0.462"
+		}
+	},
+	"160": {
+		"district": "Willington School District",
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.537",
+			"math": "0.461"
+		}
+	},
+	"161": {
+		"district": "Wilton School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.871",
+			"math": "0.836"
+		},
+		"black": {
+			"english": "0.484",
+			"math": "0.355"
+		},
+		"hispanic": {
+			"english": "0.629",
+			"math": "0.459"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.86",
+			"math": "0.698"
+		},
+		"white": {
+			"english": "0.725",
+			"math": "0.546"
+		}
+	},
+	"162": {
+		"district": "Winchester School District",
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.4",
+			"math": "0.226"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.451",
+			"math": "0.318"
+		}
+	},
+	"163": {
+		"district": "Windham School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "0.239",
+			"math": "0.164"
+		},
+		"hispanic": {
+			"english": "0.191",
+			"math": "0.116"
+		},
+		"two": {
+			"english": "0.421",
+			"math": "0.237"
+		},
+		"white": {
+			"english": "0.462",
+			"math": "0.32"
+		}
+	},
+	"164": {
+		"district": "Windsor School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.596",
+			"math": "0.638"
+		},
+		"black": {
+			"english": "0.338",
+			"math": "0.194"
+		},
+		"hispanic": {
+			"english": "0.407",
+			"math": "0.233"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.62",
+			"math": "0.551"
+		},
+		"white": {
+			"english": "0.639",
+			"math": "0.548"
+		}
+	},
+	"165": {
+		"district": "Windsor Locks School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.676",
+			"math": "0.487"
+		},
+		"black": {
+			"english": "0.205",
+			"math": "0.148"
+		},
+		"hispanic": {
+			"english": "0.337",
+			"math": "0.206"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.536",
+			"math": "0.321"
+		},
+		"white": {
+			"english": "0.465",
+			"math": "0.283"
+		}
+	},
+	"166": {
+		"district": "Wolcott School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.652",
+			"math": "0.652"
+		},
+		"black": {
+			"english": "0.469",
+			"math": "0.25"
+		},
+		"hispanic": {
+			"english": "0.645",
+			"math": "0.476"
+		},
+		"two": {
+			"english": "0.628",
+			"math": "0.326"
+		},
+		"white": {
+			"english": "0.611",
+			"math": "0.467"
+		}
+	},
+	"167": {
+		"district": "Woodbridge School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.812",
+			"math": "0.841"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.71",
+			"math": "0.562"
+		}
+	},
+	"169": {
+		"district": "Woodstock School District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.713",
+			"math": "0.481"
+		}
+	},
+	"201": {
+		"district": "Regional School District 01",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.563",
+			"math": "0.319"
+		}
+	},
+	"204": {
+		"district": "Regional School District 04",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.533",
+			"math": "0.226"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.793",
+			"math": "0.504"
+		}
+	},
+	"205": {
+		"district": "Regional School District 05",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.823",
+			"math": "0.798"
+		},
+		"black": {
+			"english": "0.531",
+			"math": "0.25"
+		},
+		"hispanic": {
+			"english": "0.574",
+			"math": "0.426"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.8",
+			"math": "0.7"
+		},
+		"white": {
+			"english": "0.687",
+			"math": "0.537"
+		}
+	},
+	"206": {
+		"district": "Regional School District 06",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.631",
+			"math": "0.406"
+		}
+	},
+	"207": {
+		"district": "Regional School District 07",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.61",
+			"math": "0.523"
+		}
+	},
+	"208": {
+		"district": "Regional School District 08",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.619",
+			"math": "0.381"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.69",
+			"math": "0.534"
+		}
+	},
+	"209": {
+		"district": "Regional School District 09",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.841",
+			"math": "0.699"
+		},
+		"native": {
+			"math": "*"
+		}
+	},
+	"210": {
+		"district": "Regional School District 10",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "1",
+			"math": "0.731"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.605",
+			"math": "0.395"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.741",
+			"math": "0.604"
+		}
+	},
+	"211": {
+		"district": "Regional School District 11",
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.602",
+			"math": "0.161"
+		}
+	},
+	"212": {
+		"district": "Regional School District 12",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.52",
+			"math": "0.32"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.739",
+			"math": "0.538"
+		}
+	},
+	"213": {
+		"district": "Regional School District 13",
+		"asian": {
+			"english": "0.8",
+			"math": "0.72"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.4",
+			"math": "0.231"
+		},
+		"two": {
+			"english": "0.6",
+			"math": "0.543"
+		},
+		"white": {
+			"english": "0.656",
+			"math": "0.448"
+		}
+	},
+	"214": {
+		"district": "Regional School District 14",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.524",
+			"math": "0.381"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.632",
+			"math": "0.438"
+		}
+	},
+	"215": {
+		"district": "Regional School District 15",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.904",
+			"math": "0.8"
+		},
+		"black": {
+			"english": "0.694",
+			"math": "0.444"
+		},
+		"hispanic": {
+			"english": "0.716",
+			"math": "0.472"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.8",
+			"math": "0.65"
+		},
+		"white": {
+			"english": "0.785",
+			"math": "0.588"
+		}
+	},
+	"216": {
+		"district": "Regional School District 16",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "0.545",
+			"math": "0.455"
+		},
+		"hispanic": {
+			"english": "0.446",
+			"math": "0.364"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.575",
+			"math": "0.441"
+		}
+	},
+	"217": {
+		"district": "Regional School District 17",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.862",
+			"math": "0.517"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.728",
+			"math": "0.523"
+		}
+	},
+	"218": {
+		"district": "Regional School District 18",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.75",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.679",
+			"math": "0.345"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.786",
+			"math": "0.689"
+		}
+	},
+	"219": {
+		"district": "Regional School District 19",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.475",
+			"math": "0.275"
+		}
+	},
+	"241": {
+		"district": "Capitol Region Education Council",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.822",
+			"math": "0.693"
+		},
+		"black": {
+			"english": "0.384",
+			"math": "0.182"
+		},
+		"hispanic": {
+			"english": "0.368",
+			"math": "0.192"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.538",
+			"math": "0.32"
+		},
+		"white": {
+			"english": "0.678",
+			"math": "0.496"
+		}
+	},
+	"242": {
+		"district": "Education Connection",
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"math": "*"
+		}
+	},
+	"243": {
+		"district": "Cooperative Educational Services",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "0.436",
+			"math": "0.282"
+		},
+		"hispanic": {
+			"english": "0.441",
+			"math": "0.294"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.35",
+			"math": "0.263"
+		}
+	},
+	"244": {
+		"district": "Area Cooperative Educational Services",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.708",
+			"math": "0.521"
+		},
+		"black": {
+			"english": "0.249",
+			"math": "0.082"
+		},
+		"hispanic": {
+			"english": "0.3",
+			"math": "0.119"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.333",
+			"math": "0.244"
+		},
+		"white": {
+			"english": "0.534",
+			"math": "0.33"
+		}
+	},
+	"245": {
+		"district": "Learn",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "0.333",
+			"math": "0.136"
+		},
+		"hispanic": {
+			"english": "0.459",
+			"math": "0.156"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.491",
+			"math": "0.281"
+		},
+		"white": {
+			"english": "0.702",
+			"math": "0.373"
+		},
+		"native": {
+			"math": "*"
+		}
+	},
+	"253": {
+		"district": "Eastern Connecticut Regional Educational Service Center (EASTCONN)",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.212",
+			"math": "<5%"
+		}
+	},
+	"261": {
+		"district": "Jumoke Academy District",
+		"black": {
+			"english": "0.378",
+			"math": "0.16"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		}
+	},
+	"263": {
+		"district": "Odyssey Community School District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "0.529",
+			"math": "0.333"
+		},
+		"hispanic": {
+			"english": "0.613",
+			"math": "0.323"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.549",
+			"math": "0.373"
+		}
+	},
+	"264": {
+		"district": "Integrated Day Charter School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.435",
+			"math": "0.217"
+		},
+		"two": {
+			"english": "0.364",
+			"math": "0.095"
+		},
+		"white": {
+			"english": "0.597",
+			"math": "0.333"
+		}
+	},
+	"265": {
+		"district": "Interdistrict School for Arts and Comm District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "0.278",
+			"math": "0.194"
+		},
+		"hispanic": {
+			"english": "0.252",
+			"math": "0.071"
+		},
+		"two": {
+			"english": "0.429",
+			"math": "0.19"
+		},
+		"white": {
+			"english": "0.593",
+			"math": "0.39"
+		}
+	},
+	"268": {
+		"district": "Common Ground High School District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "*",
+			"math": "*"
+		}
+	},
+	"269": {
+		"district": "The Bridge Academy District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "0.28",
+			"math": "0.053"
+		},
+		"hispanic": {
+			"english": "0.306",
+			"math": "0.122"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "*",
+			"math": "*"
+		}
+	},
+	"270": {
+		"district": "Side By Side Charter School District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "0.588",
+			"math": "0.265"
+		},
+		"hispanic": {
+			"english": "0.661",
+			"math": "0.482"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.75",
+			"math": "0.6"
+		}
+	},
+	"272": {
+		"district": "Explorations District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "*",
+			"math": "*"
+		}
+	},
+	"278": {
+		"district": "Trailblazers Academy District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "0.105",
+			"math": "<5%"
+		},
+		"hispanic": {
+			"english": "0.132",
+			"math": "0.059"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "*",
+			"math": "*"
+		}
+	},
+	"279": {
+		"district": "Amistad Academy District",
+		"black": {
+			"english": "0.455",
+			"math": "0.302"
+		},
+		"hispanic": {
+			"english": "0.518",
+			"math": "0.404"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "*",
+			"math": "*"
+		}
+	},
+	"280": {
+		"district": "New Beginnings Inc., Family Academy District",
+		"black": {
+			"english": "0.418",
+			"math": "0.165"
+		},
+		"hispanic": {
+			"english": "0.385",
+			"math": "0.173"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "*",
+			"math": "*"
+		}
+	},
+	"282": {
+		"district": "Stamford Academy District",
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		}
+	},
+	"283": {
+		"district": "Park City Prep Charter School District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "0.243",
+			"math": "0.115"
+		},
+		"hispanic": {
+			"english": "0.307",
+			"math": "0.151"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.4",
+			"math": "0.2"
+		}
+	},
+	"285": {
+		"district": "Bridgeport Achievement First District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "0.36",
+			"math": "0.261"
+		},
+		"hispanic": {
+			"english": "0.339",
+			"math": "0.277"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "*",
+			"math": "*"
+		}
+	},
+	"286": {
+		"district": "Highville Charter School District",
+		"black": {
+			"english": "0.387",
+			"math": "0.118"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		}
+	},
+	"288": {
+		"district": "Achievement First Hartford Academy Inc. District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "0.417",
+			"math": "0.265"
+		},
+		"hispanic": {
+			"english": "0.394",
+			"math": "0.22"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "*",
+			"math": "*"
+		}
+	},
+	"289": {
+		"district": "Elm City College Preparatory School District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "0.539",
+			"math": "0.401"
+		},
+		"hispanic": {
+			"english": "0.595",
+			"math": "0.481"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "*",
+			"math": "*"
+		}
+	},
+	"293": {
+		"district": "Path Academy District",
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		}
+	},
+	"294": {
+		"district": "Great Oaks Charter School District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "0.065",
+			"math": "<5%"
+		},
+		"hispanic": {
+			"english": "0.174",
+			"math": "0.065"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "*",
+			"math": "*"
+		}
+	},
+	"347": {
+		"district": "Unified School District #2",
+		"black": {
+			"english": "*",
+			"math": "<5%"
+		},
+		"hispanic": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "*",
+			"math": "*"
+		}
+	},
+	"900": {
+		"district": "Connecticut Technical High School System",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.654",
+			"math": "0.154"
+		},
+		"black": {
+			"english": "0.357",
+			"math": "<5%"
+		},
+		"hispanic": {
+			"english": "0.441",
+			"math": "0.082"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"two": {
+			"english": "0.386",
+			"math": "0.057"
+		},
+		"white": {
+			"english": "0.507",
+			"math": "0.109"
+		}
+	},
+	"901": {
+		"district": "Norwich Free Academy District",
+		"native": {
+			"english": "*",
+			"math": "*"
+		},
+		"asian": {
+			"english": "0.594",
+			"math": "0.547"
+		},
+		"black": {
+			"english": "0.243",
+			"math": "0.099"
+		},
+		"hispanic": {
+			"english": "0.147",
+			"math": "0.085"
+		},
+		"islander": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.531",
+			"math": "0.251"
+		}
+	},
+	"902": {
+		"district": "The Gilbert School District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*",
+			"math": "*"
+		},
+		"hispanic": {
+			"english": "0.13",
+			"math": "<5%"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.362",
+			"math": "0.192"
+		}
+	},
+	"903": {
+		"district": "Woodstock Academy District",
+		"asian": {
+			"english": "*",
+			"math": "*"
+		},
+		"black": {
+			"english": "*"
+		},
+		"two": {
+			"english": "*",
+			"math": "*"
+		},
+		"white": {
+			"english": "0.814",
+			"math": "0.535"
+		},
+		"hispanic": {
+			"math": "*"
+		}
+	},
+	"555555": {
+		"district": "Statewide",
+		"native": {
+			"english": ".44",
+			"math": ".25"
+		},
+		"asian": {
+			"english": ".76",
+			"math": ".66"
+		},
+		"black": {
+			"english": ".30",
+			"math": ".14"
+		},
+		"hispanic": {
+			"english": ".33",
+			"math": ".17"
+		},
+		"islander": {
+			"english": ".56",
+			"math": ".38"
+		},
+		"two": {
+			"english": ".57",
+			"math": ".40"
+		},
+		"white": {
+			"english": ".67",
+			"math": ".50"
+		},
+		"all": {
+			"english": ".55",
+			"math": ".39"
+		}
+	}
+}

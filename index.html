@@ -1,0 +1,100 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+		<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.12/d3.min.js"></script>
+		<script src="js/typeahead.js"></script>
+		<script src="js/pym.min.js"></script>
+		<script src="js/main.js"></script>
+
+		<link rel="stylesheet" href="css/gaps.css">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+
+	</head>
+
+	<body>
+		<style type="text/css">
+
+			.keycolor {
+				width: 100px;
+				height: 100px;
+			}
+
+			.left {
+				fill: maroon;
+				fill: rgb(0,154,240); ;
+			}
+			.left_color_key{
+				background-color: maroon;
+				background-color: rgb(0,154,240);
+				color: white;
+			}
+
+			.right{
+				fill:slateblue;
+				fill: rgb(231,65,94); ;
+			}
+
+			.right_color_key{
+				background-color:rgb(231,65,94); 
+				color:white;
+
+			}
+
+			.sourceline {
+				float:left;
+				color: gray;
+			}
+			.byline {
+				float:right;
+				text-transform: uppercase;
+				color: gray;
+			}
+
+		</style>
+
+		<h1>Achievement gap by district</h1>
+		<p class="lead">This interactive shows the gaps in achievement on the 2014-15 Smarter Balanced tests by race at districts around the state. Choose two races to compare and an exam, then search for a school district. Data is not available for districts where the population of a given a race is relatively small.</p>
+		<form class="form-inline">
+			<div class="form-group">
+				<select  id="r1" class="form-control left_color_key" name="r1">
+					<option value="native">American Indian or Alaska Native</option>
+					<option value="asian">Asian</option>
+					<option value="black">Black</option>
+					<option value="hispanic">Hispanic</option>
+					<!--<option value="islander">Native Hawaiian or Other Pacific Islander</option>-->
+					<option value="two">Two or more races</option>
+					<option value="white" selected>White</option>
+				</select>
+			</div>
+			<div class="form-group">
+				<select id="r2" class="form-control right_color_key" name="r2">
+					<option value="native">American Indian or Alaska Native</option>
+					<option value="asian">Asian</option>
+					<option value="black" selected>Black</option>
+					<option value="hispanic">Hispanic</option>
+					<!--<option value="islander">Native Hawaiian or Other Pacific Islander</option>-->
+					<option value="two">Two or more races</option>
+					<option value="white">White</option>
+				</select>
+			</div>
+			<div class="form-group">
+				<select id="s" class="form-control" name="s">
+					<option value="math">Math test</option>
+					<option value="english" selected>English test</option>
+				</select>
+			</div>
+			<div class="form-group">
+				<input  type="text" class="typeahead form-control"placeholder="Find a district..." id="school_search">
+			</div>
+		</form>
+		<svg id="d3svg"></svg>
+		<div class="sourceline">Source: Connecticut State Department of Education</div>
+		<div class="byline">Jake Kara / TrendCT.org</div>
+		<div style="clear:both;"></div>
+	</body>
+</html>
